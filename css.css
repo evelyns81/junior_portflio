@@ -37,7 +37,7 @@ h1{
 	padding: 10px;
 	height: 700px;
 	overflow: hidden;
-	background-color: rgba(159,166,104,0.4);
+	background-color:rgb(255, 230, 204);
 }
 .wave{
 	border: red 1px solid;
