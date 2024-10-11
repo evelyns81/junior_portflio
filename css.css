@@ -30,7 +30,7 @@ h1{
 	right: 260px;
 }
 .container{
-	border:2px #afd69b;
+	border:2px #f3e5be;
 	position: relative;
 	top: 2px;
 	margin: 15px;
@@ -112,5 +112,3 @@ h1{
 	font-family:'Times New Roman', Times, serif;
 	font-size:2em;
 	text-align:center;
-
-}
