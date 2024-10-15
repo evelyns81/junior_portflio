@@ -7,18 +7,17 @@ html,body{
 	box-sizing: border-box;
 }
 .banner{
-	background-color:rgb(255, 204, 204);
+	background-color:rgb(255, 229, 229);
 	margin: 15px;
 	padding: 10px;
-	border: 3px solid #a3c1ad;
-	box-shadow: 1px 3px 30px 1px ##ffffff;
-	outline: 10px 10px #49796b groove;
+	border: 3px solid #e29dd3;
+	box-shadow: 1px 3px 30px 1px #e9a0a0;
 	text-transform: capitalize;
-	text-shadow: 1px 1px #317873 ;
-	font-family: 'M PLUS Rounded 1c', sans-serif;					height: 120px;
+	text-shadow: 1px 1px #d3b592 ;
+	font-family: Garamond;
+	height: 120px;
 	text-align: right;
-	font-style:'Times New Roman', Times, serif;
-}
+	font-style: oblique;
 h1{
 	font-size: 0.7em;
 }
