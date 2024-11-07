@@ -111,3 +111,7 @@ h1{
 	font-family:'Times New Roman', Times, serif;
 	font-size:2em;
 	text-align:center;
+}
+	.bio{
+		border:2px solid #ffcccc;
+	}
