@@ -7,7 +7,7 @@ html,body{
 	box-sizing: border-box;
 }
 .banner{
-	background-color:rgb(255, 229, 229);
+ 	background-image: url("background.pg");
 	margin: 15px;
 	padding: 10px;
 	border: 3px solid #e29dd3;
