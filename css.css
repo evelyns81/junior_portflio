@@ -1,4 +1,6 @@
 html,body{
+	background-image: url("background.pg"); 
+	background-size: cover;                 
 	height: 99%;
 	width: 99%;
 }
@@ -112,13 +114,4 @@ h1{
 }
 .bio{
 	border:2px solid #ffcccc;
-}
-.background {
-	height: 99%;
-	width: 99%;
-  background-image: url("background.pg"); 
-  background-size: cover;                 
-  background-position: center center;     
-  background-repeat: no-repeat;           
-  background-color: #cccccc;               
 }
