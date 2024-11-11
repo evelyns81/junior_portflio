@@ -7,7 +7,6 @@ html,body{
 	box-sizing: border-box;
 }
 .banner{
- 	background-image: url("background.pg");
 	margin: 15px;
 	padding: 10px;
 	border: 3px solid #e29dd3;
@@ -114,4 +113,8 @@ h1{
 }
 .bio{
 	border:2px solid #ffcccc;
+}
+	body {
+ background-image: url("background.pg");
+ background-color: #cccccc;
 }
